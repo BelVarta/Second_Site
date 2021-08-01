@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="normalize.css">
+	<link rel="stylesheet" type="text/css" href="Style.css">
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div class="header">
+       <div class="wrapper">
+
+       <div class="novigation">
+    	<img src="img/logo.png" alt="logo" >
+    <ul class="nav">
+    	<li><a href="">Newsletter</a></li>
+    	<li><a href="">Community</a></li>
+    	<li><a href="">Shop</a></li>
+    	<li><a href="">Contact us</a></li>
+    	 </ul>
+    	</div>
+    	</div>
+    </div>
+   <div class="banner">
+   	<div class="wrapper">
+   		
+   		<h1 class="title">Create your own pizza</h1>
+   		<p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p> 
+   		<a class="btn" href="">read more</a>
+   		<img class="pizza" src="img/pizza.png" alt="pizza">
+   		
+   		
+   	</div>
+    </div>
+
+    <div class="page">
+    	<div class="wrapper">
+    	<div class="center">	
+    	<h2 class="h2"> How to progress? </h2>
+    		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elitonsectetur adipisicing elit.</p>
+        </div>	
+    	</div>
+    	</div> 
+    		<ul class="menu">
+    	<li><a class="active" href="">Pizza Cartton</a></li>
+    	<li><a href="">burger</a></li>
+    	<li><a href="">sandwhich</a></li>
+    	<li><a href="">Lorenmispsum</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="box">
+    	<div class="box-item">
+    		<p class="number number-one">1</p>
+    		<div class="box-text">
+    			<h3>CREATE IT </h3>
+    			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    			tempor incididunt ut labore et dolore magna aliqua.</p>
+    		</div>
+    	</div>
+    	<div class="box-item">
+    		<p class="number number-two">2</p>
+    		<div class="box-text">
+    			<h3>NAME IT </h3>
+    			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    			tempor incididunt ut labore et dolore magna aliqua.</p>
+    		</div>
+    	</div>
+    	<div class="box-item">
+    		<p class="number number-three">3</p>
+    		<div class="box-text">
+    			<h3>FAME IT </h3>
+    			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    			tempor incididunt ut labore et dolore magna aliqua.</p>
+    			</div>
+    	</div>
+    </div>
+      <div class="page">
+     <p class="center" > 
+     	<a class="btn-start" href="" >Create your legend</a>
+     </p>
+ </div>
+    			<div class="footer">
+    			<div class="wrapper">
+    				<p>© 2020 Graphic Resources . All rights reserved. </p>
+    			</div>	
+
+    			</div>
+    			
+
+</body>
+</html>
